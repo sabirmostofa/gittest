@@ -12,3 +12,5 @@ Protected $c;
 
 
 }
+
+$obj=new Initialize();
